@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-integers@deno/mod.js';
+import iterIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-integers@v0.2.1-deno/mod.js';
 ```
 
 #### iterIntegersSeq( \[options] )
@@ -134,7 +134,7 @@ var bool = it.next().done;
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import iterIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-integers@deno/mod.js';
+import iterIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-integers@v0.2.1-deno/mod.js';
 
 // Create an iterator:
 var opts = {
